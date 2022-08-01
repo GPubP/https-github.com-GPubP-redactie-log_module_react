@@ -1,1 +1,1 @@
-# https-github.com-GPubP-redactie-log_module_react
+# redactie-log_module_react
